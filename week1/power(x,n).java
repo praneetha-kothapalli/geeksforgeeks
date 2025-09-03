@@ -1,4 +1,4 @@
-//power(x,n)
+//power(x,n)  approach
 class Solution {
     public double myPow(double x, int n) {
         // use long to avoid overflow for -2^31
@@ -21,3 +21,4 @@ class Solution {
         return ans;
     }
 }
+
